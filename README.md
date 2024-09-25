@@ -1,8 +1,8 @@
 # Decoding-Crimes-Against-Women-2001-2022-
 
-Project Overview
-This repository contains a Power BI dashboard created using a dataset of crimes against women across different states and years (2000-2021). The dashboard provides visual insights into various types of crimes reported.
-Crime Types:-
+Project Overview <br>
+This repository contains a Power BI dashboard created using a dataset of crimes against women across different states and years (2000-2021). The dashboard provides visual insights into various types of crimes reported. <br>
+Crime Types:- <br>
 Rape
 *Kidnapping and Abduction
 *Dowry Deaths
