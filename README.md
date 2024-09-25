@@ -33,6 +33,10 @@ The dataset used for this project spans across different states of India and cov
 4. **Crime Category Distribution**: Visualize the distribution of crimes among different categories.  
 5. **Key Insights**: Identify trends and areas of concern, such as the rise of specific crimes in certain states.
 
+## Snapshot
+![Alt Text](https://github.com/SunilKulali/Decoding-Crimes-Against-Women-2001-2022-/blob/main/Dashboard.png)
+
+
 ## How to Use
 
 1. Download the Power BI dashboard file (`.pbix`) from the repository.  
