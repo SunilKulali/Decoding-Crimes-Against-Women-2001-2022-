@@ -35,7 +35,7 @@ The dataset used for this project spans across different states of India and cov
 5. **Key Insights**: Identify trends and areas of concern, such as the rise of specific crimes in certain states.
 
 ## Snapshot
-![Alt Text](https://github.com/SunilKulali/Decoding-Crimes-Against-Women-2001-2022-/blob/main/Dashboard.png)
+
 
 
 ## How to Use
