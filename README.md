@@ -36,7 +36,8 @@ The dataset used for this project spans across different states of India and cov
 
 ## Snapshot
 
-[https://github.com/SunilKulali/Decoding-Crimes-Against-Women-2001-2022-/blob/main/Dashboard.png]
+![Dashboard Preview](https://raw.githubusercontent.com/SunilKulali/Decoding-Crimes-Against-Women-2001-2022-/main/Dashboard.png)
+
 
 
 ## How to Use
